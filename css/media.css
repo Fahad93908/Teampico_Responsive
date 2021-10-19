@@ -1,0 +1,250 @@
+@media(max-width:991px){
+
+}
+@media(max-width:768px){
+    .btn_design {
+        margin-right: 20px;
+    }
+}
+@media(max-width:767px){
+.nav-link {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.navbar-nav{
+    text-align: center;
+}
+}
+@media(max-width:425px){
+    .slide_Box{
+        margin-bottom: 30px;
+    }
+    .btn_design {
+        margin-right: -8px;
+    }
+}
+@media(max-width:320px){
+    
+}
+@media(max-width:375px){
+    .sliderImgContent .sliderImg {
+        width: 50px;
+        height: 50px;
+       
+    }
+}
+@media(max-width:320px){
+    .sliderImgContent .sliderImg {
+        width: 50px;
+        height: 40px;
+       
+    }
+}
+@media(max-width:424px) and (min-width:320px){
+    
+    .banner_content h1 {
+        
+        font-size: 50px;
+        
+    }
+    .banner_content h2 {
+      
+        font-size: 50px;
+        
+    }
+    .banner_content p {
+        font-size: 18px;
+      
+    }
+    .banner_content .Appointment {
+      
+        padding: 10px 10px;
+     
+        font-size: 13px;
+       letter-spacing:normal;
+    }
+    .banner_content .view_Project,.explore_more, .ViewMore,.SubscribeBtn {
+        padding: 10px 10px;
+     
+        font-size: 13px;
+       letter-spacing:normal;
+       margin-left: 10px;
+    }
+    .card_content h1,.our_project h1,.about_us h1,.Testimonials_section h1,.choose_section h1,.recent_post_section h1,.contact_section h1 {
+        font-size: 30px;
+    }
+    .card_content p, .about_us p,.offer_content p,.Testimonials_section p,.sliderContent p,.choose_section p,.recent_post_section p,.recentPostImgAndContent p,.contact_section p,.getOffer p {
+        font-size: 14px;
+    }
+    .content_control {
+        padding-top: 52px;
+    }
+    .getOffer {
+       
+        text-align: center;
+    }
+    .card_content h1, .our_project h1, .about_us h1, .Testimonials_section h1, .choose_section h1, .recent_post_section h1, .contact_section h1 {
+        font-size: 16px;
+    }
+    .banner_content{
+        text-align: center;
+    }
+    .getOffer form .firstandLast input {
+       
+        font-size: 16px;
+    }
+
+
+}
+
+@media(max-width:767px) and (min-width:425px){
+   
+    .banner_content h1 {
+        
+        font-size: 60px;
+        
+    }
+    .banner_content h2 {
+      
+        font-size: 60px;
+        
+    }
+    .banner_content p {
+        font-size: 18px;
+      
+    }
+    .banner_content .Appointment {
+      
+        padding: 10px 10px;
+     
+        font-size: 13px;
+       letter-spacing:normal;
+    }
+    .banner_content .view_Project,.explore_more, .ViewMore,.SubscribeBtn {
+        padding: 10px 10px;
+     
+        font-size: 13px;
+       letter-spacing:normal;
+       margin-left: 10px;
+    }
+    .card_content h1,.our_project h1,.about_us h1,.Testimonials_section h1,.choose_section h1,.recent_post_section h1,.contact_section h1 {
+        font-size: 30px;
+    }
+    .card_content p, .about_us p,.offer_content p,.Testimonials_section p,.sliderContent p,.choose_section p,.recent_post_section p,.recentPostImgAndContent p,.contact_section p,.getOffer p {
+        font-size: 14px;
+    }
+    .content_control {
+        padding-top: 52px;
+    }
+    .getOffer {
+       
+        text-align: center;
+    }
+    .card_content h1, .our_project h1, .about_us h1, .Testimonials_section h1, .choose_section h1, .recent_post_section h1, .contact_section h1 {
+        font-size: 30px;
+    }
+    .banner_content{
+        text-align: center;
+    }
+    .getOffer form .firstandLast input {
+       
+        font-size: 16px;
+    }
+    .slide_Box{
+        margin-bottom: 30px;
+    }
+    .subInput {
+        text-align: center;
+    }
+    .content_control {
+        padding-top: 26px;
+    }
+
+
+
+}
+@media(max-width:575px) and (min-width:320px){
+   
+}
+
+@media(max-width:767px) and (min-width:576px){
+    
+}
+@media(max-width:991px) and (min-width:768px){
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 15px;
+    }
+    .navbar-expand-md .navbar-collapse{
+        margin-top: 30px;
+    }
+    .banner_content h1 {
+        
+        font-size: 70px;
+        
+    }
+    .banner_content h2 {
+      
+        font-size: 70px;
+        
+    }
+    .banner_content p {
+        font-size: 18px;
+      
+    }
+    .banner_content .Appointment {
+      
+        padding: 10px 10px;
+     
+        font-size: 13px;
+       letter-spacing:normal;
+    }
+    .banner_content .view_Project,.explore_more, .ViewMore,.SubscribeBtn {
+        padding: 10px 10px;
+     
+        font-size: 13px;
+       letter-spacing:normal;
+       margin-left: 10px;
+    }
+    .card_content h1,.our_project h1,.about_us h1,.Testimonials_section h1,.choose_section h1,.recent_post_section h1,.contact_section h1 {
+        font-size: 30px;
+    }
+    .card_content p, .about_us p,.offer_content p,.Testimonials_section p,.sliderContent p,.choose_section p,.recent_post_section p,.recentPostImgAndContent p,.contact_section p,.getOffer p {
+        font-size: 14px;
+    }
+    .content_control {
+        padding-top: 52px;
+    }
+    .getOffer {
+       
+        text-align: center;
+    }
+    .card_content h1, .our_project h1, .about_us h1, .Testimonials_section h1, .choose_section h1, .recent_post_section h1, .contact_section h1 {
+        font-size: 30px;
+    }
+    
+    .getOffer form .firstandLast input {
+       
+        font-size: 16px;
+    }
+    .counter_item{
+        width: 150px;
+        height: 150px;
+    }
+    .Custom {
+        
+       
+        padding: 2px 60px;
+       
+    }
+    .contact_section h1{
+        font-size: 20px;
+    }
+}
+
+@media(max-width:1199px) and (min-width:992px){
+   
+}
+@media(max-width:1399px) and (min-width:1200px){
+   
+}
+
